@@ -1,0 +1,4 @@
+Name: PrefixesTool
+Description: "Herramienta para trabajar con prefixes como los de wine"
+Dependencies: {"system":"", "pip":"argparse"}
+Version: 1.0
