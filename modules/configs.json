@@ -1,5 +1,6 @@
 {
     "pkg_installed": {
-        "prefixestool": "/home/axel/.local/share/apps/prefixestool/pkg.info"
+        "prefixestool": "/home/axel/.local/share/apps/prefixestool/pkg.info",
+        "pytools": "/home/axel/.local/share/apps/pytools/pkg.info"
     }
 }
