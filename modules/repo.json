@@ -1,7 +1,0 @@
-{
-    "base_url":"https://raw.githubusercontent.com/XtremeTHN/dda_rewritten/main/.PKGS",
-    "files": {
-        "prefixestool":"PrefixesTool-python.tar",
-        "pytools":"PyTools.tar"
-    }
-}
